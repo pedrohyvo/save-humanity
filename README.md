@@ -1,7 +1,7 @@
 Save-Humanity - It's a problem from HackerRank
 ------
 
-##### Check[Save Humanity problem](https://www.hackerrank.com/challenges/save-humanity/problem "Save Humanity") .
+##### Check [Save Humanity problem](https://www.hackerrank.com/challenges/save-humanity/problem "Save Humanity") .
 
 #### First steps
 
