@@ -15,11 +15,11 @@ After searching on the internet, I found a *naive bayes* approach, it was create
 **How naive approach works:**
 - n = size of "p" string;  
   m= size of "v" string;
-- Iterate on a string p, after iterates on a substring of p and verifies if the match between them.
+- Iterate on a string "p", after iterates on a substring of "p" and verifies if the match between them.
 
-Finally, I have to suggest two improvements to be implemented:  
+Finally, I have to suggest two improvements:  
 
-- Choose a language that has a faster performance than Java;  
-- Use the KMP algorithm, because it has the complexity O(n) and that is more efficient;
+- Choose a language that have a faster performance than Java;  
+- Use the KMP algorithm, because it has complexity O(n) and that is more efficient;
 
    
